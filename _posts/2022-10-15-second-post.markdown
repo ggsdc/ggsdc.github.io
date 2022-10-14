@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Title of the new post"
-date: 2022-10-15
+date: 2022-10-14
 categories: jekyll blogging
 ---
 
